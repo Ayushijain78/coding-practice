@@ -7,5 +7,5 @@ function rotate(arr){
     }
     return arr;
 }
-let arr1=[1, 2, 3, -2, 5]
-console.log("rotate array",rotate(arr1));
+let arr9=[1, 2, 3, -2, 5]
+console.log("rotate array",rotate(arr9));

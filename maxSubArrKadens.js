@@ -16,5 +16,5 @@ function maxSubArr(arr){
     }
     return osum;
 }
-let arr1=[1, 2, 3, -2, 5]
-console.log("Max subarray",maxSubArr(arr1));
+let arr=[1, 2, 3, -2, 5]
+console.log("Max subarray",maxSubArr(arr));

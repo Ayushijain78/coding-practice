@@ -13,5 +13,5 @@ function moveNegative(arr){
     }
     return arr;
 }
-let arr=[-12, 11, -13, -5, 6, -7, 5, -3, -6]
-console.log("moveNegative",moveNegative(arr));
+let arr6=[-12, 11, -13, -5, 6, -7, 5, -3, -6]
+console.log("moveNegative",moveNegative(arr6));

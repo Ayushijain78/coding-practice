@@ -24,5 +24,5 @@ function sort012(arr, N){
     }
     return arr;
 }
-let arr= [0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1 ];
-console.log("Sort 012",sort012(arr,arr.length));
+let arr3= [0, 1, 1, 0, 1, 2, 1, 2, 0, 0, 0, 1 ];
+console.log("Sort 012",sort012(arr3,arr3.length));

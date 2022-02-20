@@ -16,6 +16,6 @@ const sumArr = (arr) => {
 
 
 console.log(sumArr(["123f", "1dsa12", "1212ds", "65fd", "sadfa", "asdasd"])); // 1512
-console.log(sumArr(["asdasd"])); // 0
-console.log(sumArr(["asdasd12"])); // 12
-console.log(sumArr(["12"])); // 12
+// console.log(sumArr(["asdasd"])); // 0
+// console.log(sumArr(["asdasd12"])); // 12
+// console.log(sumArr(["12"])); // 12
