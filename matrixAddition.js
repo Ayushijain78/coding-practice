@@ -16,4 +16,4 @@ for (let j = 0; j < emp[i].length; j++) {
 c[i][j] = parseInt(emp[i][j]) + parseInt(emp1[i][j]);
  }
 }
-console.log(c);
+console.log("matrix addition",c);
